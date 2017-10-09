@@ -184,3 +184,17 @@ form.contact-form {
   background-color: #407FC7;
 }
 /* === 聯絡我 === */
+
+/*
+  原始 css code
+*/
+
+
+@media screen and (max-width: 1023px) {
+/* ==手機版的 css 都寫在這裡== */   
+
+.container {
+	width: auto;
+}
+
+}
