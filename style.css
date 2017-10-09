@@ -198,7 +198,16 @@ form.contact-form {
 /* ==手機版的 css 都寫在這裡== */   
 
 .container {
-	width: auto;
+    width: auto;
+}
+.menu-button {
+    float: right;
+    font-size: 25px;
+    line-height: 40px;
+    color: white;
+    background: transparent;
+    padding: 0 15px;
+    border: 0;
 }
 
 }
