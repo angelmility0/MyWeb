@@ -188,7 +188,11 @@ form.contact-form {
 /*
   原始 css code
 */
-
+@media screen and (min-width: 1024px) {
+  .menu-button {
+    display: none;
+  }
+}
 
 @media screen and (max-width: 1023px) {
 /* ==手機版的 css 都寫在這裡== */   
